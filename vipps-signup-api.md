@@ -1,10 +1,10 @@
 # Vipps Partner Signup API
 
-**IMPORTANT:** This API is being phased out. Do _*NOT*_ integrate with this API now.
+**IMPORTANT:** This API is phased out. Do _*NOT*_ integrate with this API.
 See
 [the partner information](https://github.com/vippsas/vipps-partner)
 for more, especially
-[How to sign up new merchants](https://github.com/vippsas/vipps-partner#how-to-sign-up-new-merchants).
+[Vipps Partner API: How to sign up new merchants](https://github.com/vippsas/vipps-partner#how-to-sign-up-new-merchants).
 Please contact your partner contact in Vipps for more information.
 
 ----
